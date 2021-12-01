@@ -24,4 +24,5 @@ open powertoys > keyboard manager > remap key (Magic fn still works!🎉)
 
 ### Change meta key for mac
 
+We do this on an OS level so that when switching to windows the windows key is not remapped.
 settings > modifier keys > remap option => command & command => option
