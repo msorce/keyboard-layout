@@ -1,5 +1,5 @@
 # keyboard-layout
-This is my programming layout for my anne pro 2 
+Programming setup and layout for my anne pro 2 
 
 
 ## Requirements
